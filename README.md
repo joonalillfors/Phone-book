@@ -1,2 +1,2 @@
-# Phone book in finnish
+# Phone book in Finnish
 # https://frozen-sands-64447.herokuapp.com/
